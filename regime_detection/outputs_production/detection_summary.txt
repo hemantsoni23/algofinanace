@@ -1,0 +1,6 @@
+mode: multi-signal
+data_file: ../Nifty_50_hourly.csv
+total_rows: 18201
+date_range: 2015-01-09 09:00:00 to 2025-07-25 15:00:00
+total_breakpoints: 37
+timestamp: 2025-11-16T19:48:51.449771
